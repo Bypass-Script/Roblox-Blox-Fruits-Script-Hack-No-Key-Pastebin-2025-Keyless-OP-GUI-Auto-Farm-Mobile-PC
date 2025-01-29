@@ -41,4 +41,3 @@ If you find this script helpful, don't forget to ⭐ **star** this repository an
 
 ---
 
-This README is optimized for search engines to ensure your repository ranks highly for relevant queries. Make sure to replace placeholders like `your-repo-link` and `your-invite-link` with actual URLs.
